@@ -1,0 +1,26 @@
+01.Basic:
+Display given message on screen
+Accept & display a string
+Perform arithmetic operations like addition, subtraction, multiplication and division on given numbers
+
+02. CPP Decision & Looping Programs :
+1. Find if a number is positive or negative
+2. Even or Odd Number
+3. Prime or Composite Number
+4. Print prime numbers between 1 to 20
+5. Reverse a number
+6. Find if a character is an alphabet or not
+7. Swap two numbers
+8. Swap without third variable
+9. Character is vowel or not
+10. Calculate grade of student
+11. Leap year program
+12. Palindrome number
+13. Armstrong number
+14. Add digits of number
+15. Count +ve, -ve & zero
+16. Find larger of two numbers
+17. Largest among three numbers
+18. Find HCF and LCM
+
+Bitonic Point
